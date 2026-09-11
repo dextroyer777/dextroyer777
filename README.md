@@ -1,5 +1,6 @@
-🗂️ DOSSIÊ DE IDENTIDADE: DEXTER
-Plaintext
+# 🗂️ DOSSIÊ DE IDENTIDADE: DEXTER
+
+```text
 ========================================================================================
 [ IDENTITY MATRIX v4.2 // SECURITY CLEARANCE: LEVEL OMEGA // OS: openSUSE ]
 ========================================================================================
@@ -37,10 +38,14 @@ Plaintext
 7. SIGNATURE
    ⤷ "Que a Força compile o código, e que o terminal nunca vacile: na brasa a mente esfria, 
      no cluster a arquitetura escala."
-   
 ========================================================================================
+```
 
-🎴 CARD VISUAL FUTURISTA (CYBERPUNK TERMINAL EDITION)
+---
+
+# 🎴 CARD VISUAL FUTURISTA (CYBERPUNK TERMINAL EDITION)
+
+```text
 ┌───[ CYBER-JEDI DOSSIER ]─────────────────────────────────────────[ openSUSE // 0x7E ]───┐
 │                                                                                          │
 │  ██████╗ ███████╗██╗  ██╗████████╗███████╗██████╗                                        │
@@ -71,3 +76,4 @@ Plaintext
 │  na brasa do churrasco a mente esfria, no cluster a arquitetura escala."                 │
 │                                                                                          │
 └──────────────────────────────────────────────────────────[ STATUS: READY TO RUN >_ ]─────┘
+```
