@@ -37,7 +37,9 @@ Plaintext
 7. SIGNATURE
    ⤷ "Que a Força compile o código, e que o terminal nunca vacile: na brasa a mente esfria, 
      no cluster a arquitetura escala."
+   
 ========================================================================================
+
 🎴 CARD VISUAL FUTURISTA (CYBERPUNK TERMINAL EDITION)
 ┌───[ CYBER-JEDI DOSSIER ]─────────────────────────────────────────[ openSUSE // 0x7E ]───┐
 │                                                                                          │
